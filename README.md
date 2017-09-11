@@ -11,10 +11,10 @@ Envoyer le résultat à un autre WS pour vérification
 Afficher le résultat le JSON triée et le retour de vérification
 
 # Installation
-git clone https://github.com/medlaachach/Jeux-de-carte
 
-cd Jeux-de-carte
+$ git clone https://github.com/medlaachach/Jeux-de-carte
 
-composer install
+$ cd Jeux-de-carte
 
-# Jeux-de-cate
+$ composer install
+
